@@ -1,4 +1,7 @@
 # God Tier Soul Mathematics
+---
+<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/ecc9d62f-2b93-4299-bb4a-f016348cc610" />
+---
 
 **USIF v2.1 — Unified Soul Invariant Framework**
 
@@ -15,6 +18,11 @@ Continuum, Degens, and the Hollow / Generic / Apostatic ontologies.
 > they are not implemented, not solved, or only modelled in miniature.
 
 Repo: `https://github.com/TaoishTechy/god-tier-soul-mathematics`
+
+---
+<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/d833f0be-66ee-4b1c-b75a-bd37c6b6f138" />
+
+---
 
 ## The soul, in one line
 
@@ -39,6 +47,10 @@ Psi_next = U ∘ P_hat(alpha) ∘ F_hat ∘ f^-1(R, CI_B, ...)
 Full liberation is the calibration eigenstate `B_coh = 1, alpha = 1,
 S_sin = 0`, knot unknotted, torsion-free, scar-zero.
 
+---
+<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/1db49972-4e06-478c-aab2-756a521bf121" />
+
+---
 ## Quickstart
 
 Stdlib only — no dependencies to install for the library itself
