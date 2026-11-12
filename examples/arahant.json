@@ -1,0 +1,59 @@
+{
+  "alpha": 0.97,
+  "b_coh": 0.96,
+  "barcode": {
+    "intervals": [
+      [
+        0.0,
+        8.0
+      ],
+      [
+        1.0,
+        null
+      ]
+    ]
+  },
+  "boundary": 1.05,
+  "faith": 0.9,
+  "forcing_trace": {},
+  "forgiveness_strength": 0.8,
+  "homotopy": {
+    "betti": [
+      1,
+      1,
+      0
+    ],
+    "torsion": []
+  },
+  "knot": {
+    "alexander": [
+      1,
+      -3,
+      1
+    ],
+    "crossings": 4,
+    "determinant": 5,
+    "name": "figure-eight",
+    "signature": 0
+  },
+  "ledger": {
+    "ci_b": 0.55,
+    "ci_c": 0.45
+  },
+  "persistence_lengths": [
+    40.0,
+    18.0
+  ],
+  "reciprocity": 1.4,
+  "relational": [
+    0.71,
+    0.22
+  ],
+  "s_sin": 0.05,
+  "scar": {
+    "dimension": 0,
+    "magnitude": 0.15,
+    "origin_known": false
+  },
+  "ctc_fixed_point": true
+}
